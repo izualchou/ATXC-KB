@@ -1,12 +1,20 @@
 # Atlas Nexus Foundation
 
-This document is the foundation of the ATXC Knowledge Base.
+## Project Overview
+Atlas Nexus (ATXC) is a Tasker engineering knowledge base focused on building a production-grade, self-healing dual-SIM network runtime platform.
+
+## Atlas Nexus Vision
+Provide a stable, XML-first, metadata-first engineering methodology that enables AI systems to generate, validate and maintain Tasker projects with minimal manual intervention.
+
+## Engineering Principles
+- XML-first development
+- Metadata-first development
+- Single Task incremental import
+- Append, never replace
+- Verified templates over inferred XML
+- Java Function preferred over shell when feasible
 
 ## Planned Sections
-
-- Project Overview
-- Atlas Nexus Vision
-- Engineering Principles
 - XML-first Methodology
 - Metadata-first Development
 - Tasker XML Knowledge Base
@@ -19,5 +27,3 @@ This document is the foundation of the ATXC Knowledge Base.
 - Round-trip Rules
 - Regression Rules
 - Engineering Checklist
-
-> This document will be expanded incrementally into the primary Foundation specification.
