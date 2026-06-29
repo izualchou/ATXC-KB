@@ -1,27 +1,28 @@
 # Atlas Nexus Foundation
 
 ## Project Overview
-Atlas Nexus (ATXC) is a Tasker engineering knowledge base focused on building a production-grade, self-healing dual-SIM network runtime platform.
+Atlas Nexus (ATXC) is a Tasker engineering knowledge base focused on XML-first automation, runtime architecture, and AI-assisted project generation.
 
 ## Atlas Nexus Vision
-Provide a stable, XML-first, metadata-first engineering methodology that enables AI systems to generate, validate and maintain Tasker projects with minimal manual intervention.
+Build a maintainable engineering platform that enables deterministic Tasker XML generation through verified metadata and repeatable workflows.
 
 ## Engineering Principles
-- XML-first development
-- Metadata-first development
-- Single Task incremental import
+- XML-first
+- Metadata-first
+- Incremental Task import
 - Append, never replace
-- Verified templates over inferred XML
-- Java Function preferred over shell when feasible
+- Verified exports as source of truth
+- Prefer Java Function when available
 
-## Planned Sections
-- XML-first Methodology
-- Metadata-first Development
-- Tasker XML Knowledge Base
+## XML-first Methodology
+Development begins with validated Task XML exports. Templates, patterns, primitives, engines, and higher-level runtime structures are derived from verified XML rather than inferred syntax.
+
+## Metadata-first Development
+Official metadata (capabilities.xml, datadef.xml and tasker.js) is treated as the authoritative schema layer for generation and validation.
+
+## Remaining Sections
 - Runtime Architecture Overview
-- Java Framework Overview
 - AI Generator Objectives
-- Naming Convention
 - Development Workflow
 - Validation Strategy
 - Round-trip Rules
